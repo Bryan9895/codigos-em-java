@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/bryan/Documentos/aulas-poo/workspace-eclipse/ProjetosJava/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+496793133.index
+609235457.index
